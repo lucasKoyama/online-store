@@ -175,14 +175,14 @@ a {
 
 .product .title {
   color: rgb(50 52 56);
-  font-size: 1em;
+  font-size: 1vw;
   font-weight: 600;
 }
 
 .product .price {
   color: rgb(50 52 56);
   display: flex;
-  font-size: 1.2em;
+  font-size: 1.5vw;
   font-weight: 600;
   justify-content: center;
   letter-spacing: -0.05vw;
@@ -190,12 +190,13 @@ a {
 
 .product .btn {
   bottom: 0.8vw;
+  font-size: 1vw;
   position: absolute;
 }
 
 .product .shipping {
   color: #00a650;
-  font-size: 0.95em;
+  font-size: 1.3vw;
   margin-top: 0;
   position: absolute;
   top: 0;
@@ -438,11 +439,21 @@ li {
     width: 40vw;
   }
 
+  .product .shipping {
+    font-size: 1em;
+  }
+
   .product .title {
+    font-size: 1em;
     margin: 3vw;
   }
 
+  .product .price {
+    font-size: 2em;
+  }
+
   .product .btn {
+    font-size: 1em;
     margin: 2vw 0;
   }
 
