@@ -1,0 +1,101 @@
+.info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.checkout > .container {
+  width: 75%;
+}
+
+.info input {
+  height: 1vw;
+  width: 15vw;
+}
+
+.infos > div {
+  display: flex;
+  flex-direction: row;
+  margin: 0.2vw;
+}
+
+.person-info > div, .contact-info > div, .address-info > div {
+  margin-right: 1vw;
+  margin-top: 0.5vw;
+}
+
+.paymentMethod {
+  background-color: rgb(213 213 213);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.6vw;
+  padding: 0.8vw;
+}
+
+.paymentMethod input {
+  height: 1vw;
+  margin: 0.2vw;
+  width: 1vw;
+}
+
+.paymentMethod label {
+  width: 10vw;
+}
+
+.paymentMethod h2 {
+  margin-bottom: 20px;
+}
+
+.checkout-btn {
+  display: flex;
+  margin: auto;
+}
+
+.error-msg {
+  color: red;
+  font-weight: 600;
+  margin: 1vw;
+  text-align: center;
+}
+
+@media screen and ( max-width : 768px ) {
+
+  .checkout > .container {
+    width: 98%;
+  }
+
+  .info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .infos > div {
+    flex-direction: column;
+  }
+
+  .person-info > div, .contact-info > div, .address-info > div {
+    margin: 1vw;
+  }
+
+  .paymentMethod label {
+    width: 100vw;
+  }
+
+  .paymentMethod {
+    margin: 2vw;
+    padding: 4vw;
+  }
+
+  .paymentMethod input {
+    height: auto;
+    margin: auto;
+    width: auto;
+  }
+
+  .info input {
+    height: auto;
+    width: auto;
+  }
+}
