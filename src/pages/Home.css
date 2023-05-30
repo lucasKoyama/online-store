@@ -11,7 +11,7 @@ a {
 /* --------------- HEADER  --------------- */
 .header {
   background-color: #fff159;
-  padding-inline: 5%;
+  padding: 8px 5%;
   position: relative;
   width: 100%;
   z-index: 1;
@@ -120,7 +120,7 @@ a {
 
 .aside {
   padding: 1vw;
-  width: 20%;
+  width: 24vw;
 }
 
 .not-found {
