@@ -44,3 +44,7 @@ foi utilizado a API do Mercado Livre para obter os produtos do site!
 7.  Material UI - React Lib
 
 ## :octocat: Desenvolvedores
+- [@saramariabaptista](https://github.com/saramariabaptista)
+- [@Joatancarlos](https://github.com/Joatancarlos)
+- [@alissonooliveiraofc](https://github.com/alissonooliveiraofc)
+- [@Carolina Matos]
