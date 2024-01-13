@@ -12,13 +12,13 @@ Think of the STAR + Hero Journey description for the entire README:
 <details>
   <summary>Summary</summary>
 
-  1. [Overview](https://github.com/lucasKoyama/wallety/blob/main/README.md#overview---wallety)
-  2. [Features & Challenges solved](https://github.com/lucasKoyama/wallety/blob/main/README.md#-features--challenges-solved)
-  3. [Tools used](https://github.com/lucasKoyama/wallety/blob/main/README.md#%EF%B8%8F-tools-used)
-  4. [Authors](https://github.com/lucasKoyama/wallety/blob/main/README.md#-features--challenges-solved)
+  1. [Overview](https://github.com/lucasKoyama/Online-Store/tree/main?tab=readme-ov-file#overview---online-store)
+  2. [Features & Challenges solved](https://github.com/lucasKoyama/Online-Store/tree/main?tab=readme-ov-file#-features--challenges-solved)
+  3. [Tools used](https://github.com/lucasKoyama/Online-Store/tree/main?tab=readme-ov-file#%EF%B8%8F-tools-used)
+  4. [Authors](https://github.com/lucasKoyama/Online-Store/tree/main?tab=readme-ov-file#authors)
 </details>
 <p>
-Trybe group project, where I worked using agile methodologies such as scrum and kanban through Trello. Planning poker was also carried out with the team to distribute project requirements. The project is a simulation of an online store; the Mercado Livre API was used to get the products from the website!
+Project made in group in Trybe with other students where I worked using agile methodologies such as scrum and kanban through Trello. Planning poker was also carried out with the team to distribute project requirements. The project is a simulation of an online store; the Mercado Livre API was used to get the products from the website!
 </p>
 
 <a href="https://online-store-lucaskoyama.vercel.app/">
@@ -35,25 +35,26 @@ The page was developed responsively, adapting to different screen sizes and devi
 
 <details>
   <summary>Busca por categorias ou barra de pesquisa</summary>
-  A busca pelos produtos pode ser feito pelo menu lateral de categorias ou pela barra de pesquisa inserindo alguma palavra-chave que contém no produto!.
+  
+The search for products can be done through the category sidebar menu or through the search bar by entering a keyword that the product contains!
 </details>
 
 <details>
-  <summary>Adiciona produtos ao carrinho em diferentes páginas</summary>
-  Tanto na página onde exibe os produtos quanto na página que exibe os detalhes de um produto é possível adicionar itens ao carrinho.
+  <summary>Add products to Shopping Cart on different pages</summary>
+
+Both on the page where the products are displayed and on the page where the details of a product are displayed, it is possible to add items to the cart.
 </details>
 
 <details>
-  <summary>Carrinho de compras com opções</summary>
-  Na página de carrinho de compras é possível adicionar ou remover produtos do carrihno de compras, o botão de adcionar verifica antes de adicionar se tem estoque disponível
-  para adicionar mais produtos, é possível também nessa página fechar o pedido para ir para a tela de finalização da compra. Caso a página não contenha nenhum produto adicionado
-  irá exibir uma imagem e uma mensagem mostrando que o carrinho está vazio e um botão de redirecionamento para a página inicial de compras. 
+  <summary>Shopping cart with options</summary>
+  
+On the shopping cart page it is possible to add or remove products from the shopping cart, the add button checks before adding whether there is stock available to add more products, it is also possible on this page to close the order to go to the checkout screen purchase. If the page does not contain any added products, it will display an image and a message showing that the cart is empty and a redirect button to the home shopping page.
 </details>
 
 <details>
-  <summary>Página de detalhes do produto</summary>
-  Na página de detalhes é renderizado as informações de detalhes do produto que é fornecido pela API do Mercado Livre, é possível também nessa página adicionar produtos ao carrinho
-  de compras como também avaliar algum produto com comentários e "estrelinhas"! ⭐⭐⭐⭐⭐
+  <summary>Product details page</summary>
+  
+On the details page, the product detail information provided by the Mercado Livre API is rendered. It is also possible on this page to add products to the shopping cart and also evaluate a product with comments and "stars"! ⭐⭐⭐⭐⭐
 </details>
 
 
