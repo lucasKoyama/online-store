@@ -34,7 +34,7 @@ The page was developed responsively, adapting to different screen sizes and devi
 </details>
 
 <details>
-  <summary>Busca por categorias ou barra de pesquisa</summary>
+  <summary>Search products by categories or search bar</summary>
   
 The search for products can be done through the category sidebar menu or through the search bar by entering a keyword that the product contains!
 </details>
