@@ -1,6 +1,5 @@
 # Overview - Online Store
-![Screenshot from 2023-06-06 13-53-26](https://github.com/lucasKoyama/Online-Store/assets/121680414/910dab78-9d12-43ff-a0d7-1e20d3d79cec)
-
+<img width="100%" alt="image" src="https://github.com/lucasKoyama/Online-Store/assets/121680414/79dc46c6-541c-4c54-9065-bacd0a87d966">
 <!--
 Think of the STAR + Hero Journey description for the entire README:
 1. Situation: begin with the situation, what it aims to solve, and what the common problem is.
