@@ -73,6 +73,7 @@ On the details page, the product detail information provided by the Mercado Livr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Authors
+- [@lucasKoyama](https://github.com/lucasKoyama)
 - [@saramariabaptista](https://github.com/saramariabaptista)
 - [@Joatancarlos](https://github.com/Joatancarlos)
 - [@alissonooliveiraofc](https://github.com/alissonooliveiraofc)
